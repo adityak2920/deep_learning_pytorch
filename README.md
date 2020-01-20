@@ -1,2 +1,2 @@
-# deep_learning_pytorch
+# Deep Learning Pytorch
 Deep Learning Session Notebooks
